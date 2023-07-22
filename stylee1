@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+ body{
+        font-family:Arial;
+    font-size: 10px
+        background-image: linear-gradient(120deg,#ffafcc,#fcd5ce,#2c7da0,#a3b18a,#90e0ef);
+        animation-name: box;
+        animation-duration: 1s;
+        animation-iteration-count: infinite;
+
+    }
+    @keyframes box{
+        10%{background-image:linear-gradient(120deg,#2c7da0,#fb5607,#ffcdb2,#e5e5e5);}
+        40%{background-image: linear-gradient(120deg,#495057,#f4978e,#adc178,#4361ee);}
+        50%{background-image: linear-gradient(120deg,#ffafcc,#fb5607,#ffcdb2,#4361ee);}
+    }
+
+
+.h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.cards{
+    width:10%;
+    background-color: gray;
+    border-radius: 5px;
+    margin: 40px;
+    box-shadow: 2px 2px 10px black;
+    display: inline-block;
+
+}
+.img img{
+    width: 100%;
+    border-radius: 8px;
+    padding:;
+}
+.title{
+    text-align: center;
+    font-size: 15px;
+}
+.dis{
+    text-align: center;
+    padding: 4px;
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    border: 1px solid black;
+    padding: 3px;
+    border-radius:5px ;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+footer {
+    background-color: #166bdb;
+     padding: 5px;
+    text-align: center;
+  }
+  
+  .audio-player {
+    margin-bottom: 10px;
+  }
+  
+  .social-icons img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }

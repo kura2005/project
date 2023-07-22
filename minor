@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>historical places in india</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1 class="h1">Historical places in india</h1>
+  <div class="cards">
+    <div class="img">
+     <img src="img1.jpg" alt="Tajamahal">
+    </div>
+    <div class="title">
+      <h1>Tajamahal</h1>
+
+    </div>
+    <div class="dis">
+      <p>
+      The Taj Mahal is considered one of the most beautiful buildings
+       the Muslim ruler of the Mughal Empire in India from 1628 to 1658.
+      </p>
+      <a href = "https://en.wikipedia.org/wiki/Taj_Mahal"><button>Read More..</button></a>
+
+    </div>
+
+  </div>
+
+  <div class="cards">
+    <div class="img">
+     <img src="img2.jpg" alt="Red fort">
+    </div>
+    <div class="title">
+      <h1>Red Fort</h1>
+
+    </div>
+    <div class="dis">
+      <p>
+        The Red Fort Complex was built as the palace fort of Shahjahanabad – 
+        the new capital of the fifth Mughal Emperor of India, Shah Jahan.
+      </p>
+      <a href="https://en.wikipedia.org/wiki/Red_Fort"><button>Read More..</button></a>
+
+    </div>
+
+  </div>
+
+  <div class="cards">
+    <div class="img">
+     <img src="img3.jpg" alt="India Gate">
+    </div>
+    <div class="title">
+      <h1>India Gate</h1>
+
+    </div>
+    <div class="dis">
+      <p>
+        At the centre of New Delhi stands the 42 m high India Gate, 
+        an “Arc-de-Triomphe” like archway in the middle of a crossroad..
+      </p>
+      <a href="https://en.wikipedia.org/wiki/India_Gate"><button>Read More..</button></a>
+
+    </div>
+
+  </div>
+
+
+  <div class="cards">
+    <div class="img">
+     <img src="img4.jpg" alt="">
+    </div>
+    <div class="title">
+      <h1>Charminar</h1>
+
+    </div>
+    <div class="dis">
+      <p>
+        It is a square shaped monument with four pillars, one on each side.
+         The architectural design of Charminar is inspired from the Shia “tazias”.
+      </p>
+      <a href="https://en.wikipedia.org/wiki/Charminar"><button>Read More..</button></a>
+
+    </div>
+
+  </div>
+
+  <div class="cards">
+    <div class="img">
+     <img src="img5.jpg" alt="Agra Fort">
+    </div>
+    <div class="title">
+      <h1>Agra Fort</h1>
+
+    </div>
+    <div class="dis">
+      <p>
+      Agra Fort is a historical fort in the city of Agra in India. 
+      It was the main residence of the emperors of the Mughal Dynasty till 1638,
+      when the capital was shifted from Agra to Delhi..
+      </p>
+      <a href="https://en.wikipedia.org/wiki/Agra_Fort"><button>Read More..</button></a>
+    </div>
+
+  </div>
+
+  <div class="cards">
+    <div class="img">
+     <img src="https://imgnew.outlookindia.com/public/uploads/articles/2018/10/30/STATUE_OF_UNITY.jpg" alt="Tajamahal">
+    </div>
+    <div class="title">
+      <h1>statue of unity</h1>
+
+    </div>
+    <div class="dis">
+      <p>
+        The 182-metre (600 feet aprox.) statue is dedicated to Sardar 
+    Vallabhbhai Patel,
+         the architect of independent India
+      </p>
+      <a href="https://en.wikipedia.org/wiki/Statue_of_Unity"><button>Read More..</button></a>
+
+
+    </div>
+
+  </div>
+
+  <div class="cards">
+    <div class="img">
+     <img src="img6.jpg" alt="Tajamahal">
+    </div>
+    <div class="title">
+      <h1>Qutb Minar</h1>
+
+    </div>
+    <div class="dis">
+      <p>
+        the tallest masonry tower in India, measuring 72.5 metres high, 
+        with projecting balconies for calling all Muadhdhin to prayer.
+      </p>
+      <a href="https://en.wikipedia.org/wiki/Qutb_Minar"><button>Read More..</button></a>
+
+    </div>
+
+  </div>
+  <div class="cards">
+    <div class="img">
+     <img src="https://1.bp.blogspot.com/--Ml78-hvUP4/YGqtkZpKhhI/AAAAAAAAdFo/Wy0MCOSKMqUJdcktqrqQN4-Hd0O3TSePACLcBGAsYHQ/s600/Champavati%2BTemple%2BIn%2BChamba%2BTown%2B%25E2%2580%2593%2BHimachal%2BPradesh.jpg" alt="Tajamahal">
+    </div>
+    <div class="title">
+      <h1>champavti Temple</h1>
+
+    </div>
+    <div class="dis">
+      <p>
+        The 182-metre (600 feet aprox.) statue is dedicated to Sardar 
+    Vallabhbhai Patel,
+         the architect of independent India
+      </p>
+      <a href="https://en.wikipedia.org/wiki/Statue_of_Unity"><button>Read More..</button></a>
+
+
+    </div>
+
+  </div>
+  <div class="cards">
+    <div class="img">
+     <img src="https://media.easemytrip.com/media/Blog/India/Heritage-&-Culture/Heritage-&-CultureBWBwct.jpg" alt="Tajamahal">
+    </div>
+    <div class="title">
+      <h1>Masroor Rock Cut Temple</h1>
+
+    </div>
+    <div class="dis">
+      <p>
+        The Masrur Temples, also referred to as Masroor Temples or Rock-cut Temples at Masrur, 
+        is an early  
+         
+      </p>
+      <a href="https://en.wikipedia.org/wiki/Masrur_Temples"><button>Read More..</button></a>
+
+
+    </div>
+
+  </div>
+  <div class="cards">
+    <div class="img">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU02UCnNYUpwaIBRPx5gr13NBOeiFYSIjryg&usqp=CAU" alt="Tajamahal">
+    </div>
+    <div class="title">
+      <h1>
+        Vijay Stambh</h1>
+
+    </div>
+    <div class="dis">
+      <p>
+        The 182-metre (600 feet aprox.) statue is dedicated to Sardar 
+    Vallabhbhai Patel,
+         the architect of independent India
+      </p>
+      <a href="https://en.wikipedia.org/wiki/Statue_of_Unity"><button>Read More..</button></a>
+
+
+    </div>
+
+  </div>
+  <div class="cards">
+    <div class="img">
+     <img src="https://curlytales.com/wp-content/uploads/2019/10/holidify-1.jpg" alt="Tajamahal">
+    </div>
+    <div class="title">
+      <h1>Gateway Of India Mumbai</h1>
+
+    </div>
+    <div class="dis">
+      <p>
+        The 182-metre (600 feet aprox.) statue is dedicated to Sardar 
+    Vallabhbhai Patel,
+         the architect of independent India
+      </p>
+      <a href="https://en.wikipedia.org/wiki/Statue_of_Unity"><button>Read More..</button></a>
+
+
+    </div>
+
+  </div>
+    <footer>
+      <div class="audio-player">
+        <audio controls>
+          <source src="Jana Gana Mana - Indian National Anthem- [PagalWorld.NL].mp3" type="audio/mpeg">
+        </audio>
+      </div>
+  
+      <div class="social-icons">
+        <a href="https://www.instagram.com"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://www.facebook.com">  <i class="fa-brands fa-facebook"></i></a></a>
+        <a href="https://www.twitter.com"><i class="fa-brands fa-twitter"></i></a><br>
+      </div>
+    </footer>
+  
+  </div>
+</div>
+</body>
+</html>
